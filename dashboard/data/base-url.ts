@@ -1,1 +1,1 @@
-export const baseUrl = 'http://localhost:8888'
+export const baseUrl = 'http://mleadscopilot.onrender.com:8888'
